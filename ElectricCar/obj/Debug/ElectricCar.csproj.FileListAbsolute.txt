@@ -1,0 +1,7 @@
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\ElectricCar\ElectricCar\bin\Debug\ElectricCar.exe.config
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\ElectricCar\ElectricCar\bin\Debug\ElectricCar.exe
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\ElectricCar\ElectricCar\bin\Debug\ElectricCar.pdb
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\ElectricCar\ElectricCar\obj\Debug\ElectricCar.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\ElectricCar\ElectricCar\obj\Debug\ElectricCar.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\ElectricCar\ElectricCar\obj\Debug\ElectricCar.exe
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\ElectricCar\ElectricCar\obj\Debug\ElectricCar.pdb

@@ -15,7 +15,7 @@ namespace ElectricCar
     {
         public virtual void Move()
         {
-            Console.WriteLine("Car is moving!");
+            Console.WriteLine("Car is Moving!");
         }
 
     }
@@ -31,5 +31,4 @@ namespace ElectricCar
             Console.WriteLine("Car is charged!");
         }
     }
-
 }
